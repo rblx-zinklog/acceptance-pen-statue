@@ -1,1 +1,1 @@
-# acceptance-pen-statue.github.io
+# acceptance-pen-statue
